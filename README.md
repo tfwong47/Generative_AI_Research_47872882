@@ -1,4 +1,5 @@
 # AI_Research
+It highlight how the generative can be used in the Education. 
 
 # File Structure: 
 # Data Folder
