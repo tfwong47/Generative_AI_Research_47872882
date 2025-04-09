@@ -1,18 +1,29 @@
-# AI_Research
-It highlight how the generative can be used in the Education. 
 
-# File Structure: 
-# Data Folder
-It stores all the analysis related information
+# Project Title
 
-# Images
-All image regarding the project
+This project highlight how Generative AI can be appied in eduaction
 
-# Interview
-All interview information with Eric Francis and Jason
 
-# Literature Review
-All the Documents related background research
+## Authors
 
-# Proposal
-Files Created (In different version) for proposal submission. 
+- [@Francis Wong](https://www.github.com/tfwong47)
+
+## Tutor
+- [@Chen](https://github.com/cchen-925)
+
+
+
+## Folder Management
+
+Data Folder - All the survey related Data
+
+Images - All images regarding the project
+
+Interview - All interview information with Eric, Francis and Jason
+
+Literature Review - All the document related to background research
+
+Proposal - Files Created in different version for proposal submission. 
+
+
+
