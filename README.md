@@ -1,5 +1,5 @@
 
-# Project Title
+# Generative AI Research
 
 This project highlight how Generative AI can be appied in eduaction
 
